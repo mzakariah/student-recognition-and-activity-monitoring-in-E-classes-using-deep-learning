@@ -7,6 +7,10 @@ The superior performance of our model can be attributed to the use of a deeper a
 
 Overall, the results of our study demonstrate the potential of deep learning techniques for improving student engagement and learning outcomes in e-learning environments. The accurate recognition and monitoring of student activities can help teachers and educators to better understand student behavior and provide more targeted and personalized support, leading to improved academic performance and learning outcomes.
 
+original dataset:
+https://drive.google.com/file/d/1vUU_vC25Iw23DQmD-sLU79Vn1rNM0sgM/view?usp=share_link
+This dataset can just be passed in the code and rest of the required folders will be created by code itself by creating images frames and storing them in relevant folders
+
 Following are the google drive links of dataset being used in this study.
 
 1: UPNA videos dataset
